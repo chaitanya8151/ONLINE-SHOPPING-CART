@@ -44,35 +44,20 @@
 
 1. [MainFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/MainFrame.java): Provide main menu for user to choose different function.
 
-![image](http://www.aaronguan.com/images/database/MainFrame.png)
-
 2. [Register.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/Register.java): User registration interface.
-
-![image](http://www.aaronguan.com/images/database/Register.png)
 
 3. [Login.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/Login.java): User log-in interface.
 
-![image](http://www.aaronguan.com/images/database/Login.png)
-
 4. [AddAddress.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/AddAddress.java): Add address for delivery.
-
-![image](http://www.aaronguan.com/images/database/Add%20Addr.png)
 
 5. [SearchFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/SearchFrame.java):Search products in database.
 
-![image](http://www.aaronguan.com/images/database/Search%20Prod.png)
-
 6. [SaveToCartFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/SaveToCartFrame.java): Add products into shopping cart.
 
-![image](http://www.aaronguan.com/images/database/Add%20to%20cart.png)
-
 7. [SetUpOrderFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/SetUpOrderFrame.java): View the shopping cart and create the order.
+8. 
+9. [addressFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/addressFrame.java): Select a delivery address and finish the shopping.
 
-![image](http://www.aaronguan.com/images/database/View%20Shoppingcart.png)
-
-8. [addressFrame.java](https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project/blob/master/Java_GUI/addressFrame.java): Select a delivery address and finish the shopping.
-
-![image](http://www.aaronguan.com/images/database/Select%20Addr.png)
 
 
 
